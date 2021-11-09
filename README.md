@@ -1,7 +1,7 @@
 # fft_tractian
 ## Hardware R&amp;D Challenge - Resolution
 
-Neste repositório constam os arquivos utilizados para resolver o problema proposto pelo enunciado (FFT para um acelerômetro), assim como o arquivo output.txt gerado pela rotina. O enunciado foi resolvido no Ubuntu 20.04.
+Neste repositório, constam os arquivos utilizados para resolver o problema proposto pelo enunciado (FFT para um acelerômetro), assim como o arquivo output.txt gerado pela rotina. O enunciado foi resolvido no Ubuntu 20.04.
 
 Para utilizar a rotina desenvolvida, primeiramente, é necessário instalar a biblioteca FFTW3. Para isso, siga o tutorial:
 https://www.youtube.com/watch?v=oWsjHU2xHWU
